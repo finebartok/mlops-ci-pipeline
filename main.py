@@ -2,7 +2,7 @@ import torch
 
 
 def test():
-    x = torch.tensor([1, 2, 3])
+    x = torch.tensor([1, 1, 3])
     print("Tensor:", x)
 
 
